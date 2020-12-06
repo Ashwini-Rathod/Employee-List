@@ -8,4 +8,7 @@ In this page, the data of the employees is fetched using async and await methods
 
 The live link of the project is given below:
 
+https://ashwini-rathod.github.io/Employee-List/index.html
+
+
 
